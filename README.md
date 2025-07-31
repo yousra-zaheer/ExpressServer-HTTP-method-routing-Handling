@@ -5,7 +5,10 @@ Description: A Node.js server built with Express.js, featuring routes for user p
 Key Features:
 - User profile routes with dynamic parameters
 - Search query route with query parameters
-- User creation, update, and deletion routes
+- User creation, read , update, and deletion routes
 - Catch-all route for invalid URLs
 - Modular design with separate controller and route files
+- middleware Handling
+- templating engine handling
+- handling form-data & url-encoded data
 
